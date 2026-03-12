@@ -55,7 +55,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Kushwaha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/23kushwahaakash/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://akash-portfolio-sigma-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://akash-portfolio-eight-kappa.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Email-akash@email.com-red?style=for-the-badge&logo=gmail)](mailto:23kushwahaakash@email.com)
 
